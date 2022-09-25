@@ -1,0 +1,50 @@
+h1{
+    border: 2px solid;
+    text-align: center;
+    background-color: blueviolet;
+    padding-top: 5%; 
+    padding-bottom: 5%;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #ffff;
+    font-weight: 400;
+    border-radius: 100px;
+    border-width: 20px;
+    border-style: double;
+}
+#city,#country{
+    width:15%;
+    border: 2px solid black;
+    padding: 10px;
+}
+div{
+    display: block;
+}
+div label{
+    display: block;
+    font-weight: 700;
+    font-size: 24px;
+    font-style: italic;
+    color: rgb(20, 113, 20);
+}
+label,.note{
+    display: inline-block;
+}
+body{
+    background-color: rgb(96, 198, 232);
+}
+.note{
+    color: crimson;
+    font-style: oblique;
+}
+#weather{
+    margin: 20px 20px 20px 20px;
+    border-style: double;
+    border-width: 10px;
+    text-align: center;
+    border-color: #ffff;
+    color: green;
+}
+#button{
+    text-align: center;
+}
